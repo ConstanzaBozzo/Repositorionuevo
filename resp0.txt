@@ -1,0 +1,52 @@
+ history
+    1  git config --global user.name "Cony Bozzo"
+    2  git config --global user.email cp.bozzo@gmail.com
+    3  git config --list
+    4  git config {clave}
+    5  git help config
+    6  git init
+    7  git add *.c
+    8  git clone git://github.com/schacon/grit.git
+    9  git add README
+   10  git add*.c
+   11  git add *.c
+   12  pwd
+   13  ls
+   14  cd Desktop/
+   15  git clone https://github.com/IIC2115/Syllabus.git
+   16  cd Desktop/
+   17  cd Syllabus/
+   18  ld
+   19  ls
+   20  git add L0
+   21  git commit -m "se sube lab0"
+   22  git push
+   23  git pull
+   24  git clone https://github.com/ConstanzaBozzo/Repositorionuevo.git
+   25  git clone
+   26  git clone https://github.com/ConstanzaBozzo/Repositorionuevo.git
+   27  pwd
+   28  cd Desktop
+   29  cmd
+   30  ld
+   31  cd
+   32  cd Desktop/
+   33  git clone
+   34  git clone
+   35  git clone https://github.com/ConstanzaBozzo/Repositorionuevo.git
+   36  git add Constanza
+   37  cd Repositorionuevo
+   38  git add Constanza
+   39  git add Constanza.txt
+   40  git commit -m "primer archivo subido"
+   41  git push
+   42  git clone
+   43          Repositorionuevo/Constanza.txt
+   44  git pull
+   45  doskey/History
+   46  git doskey/History
+   47  doskey /history
+   48  doskey /History
+   49  cmd doskey /History
+   50  doskey /History
+   51  history
