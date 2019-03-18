@@ -1,0 +1,18 @@
+class Departamento:  # CamelCase notation (PEP8)
+    '''Clase que representa un departamento en venta
+       valor esta en UF.
+    '''
+    def __init__(self, _id, mts2, valor, num_dorms, num_banos):
+        self._id = _id
+        self.mts2 = mts2
+        self.valor = valor
+        self.num_dorms = num_dorms
+        self.num_banos = num_banos
+        self.vendido = False
+
+    def vender(self):
+        if not self.vendido:
+            self.vendido = True
+        else:
+            print("Departamento {} ya se vendió".format(self._id))
+           
